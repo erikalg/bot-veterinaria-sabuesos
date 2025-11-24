@@ -1,0 +1,16 @@
+{
+  "name": "bot-veterinaria",
+  "version": "1.0.0",
+  "description": "Bot automático para Veterinaria Sábuesos",
+  "main": "bot-veterinaria.js",
+  "scripts": {
+    "start": "node bot-veterinaria.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
